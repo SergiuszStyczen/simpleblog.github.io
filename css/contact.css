@@ -1,0 +1,61 @@
+* {
+    font-family: 'Titillium Web', sans-serif;
+  }
+
+  #navigation {
+    opacity: 0.9;
+  }
+
+  #navigation li {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  #brand {
+    padding-left: 60px;
+  }
+
+header {
+    background: url(../img/mona.jpg) center center no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  }
+
+  .intro_header {
+    position: relative;
+    padding: 8% 0;
+  }
+
+  .intro_header h1 {
+    color: #f8f8f8;
+    font-size: 4em;
+    font-weight: bold;
+  }
+
+  .intro_header h2 {
+    color: #f8f8f8;
+    font-size: 2em;
+    letter-spacing: 5px;
+    font-weight: bold;
+  }
+
+  #footer ul {
+    padding-top: 10%;
+    padding-bottom: 2%;
+  }
+
+  #footer li {
+    padding: 0 3%;
+  }
+
+  #footer p {
+    padding-bottom: 10%;
+  }
+
+.form_head {
+  padding: 2%;
+  font-size: 15px;
+  letter-spacing: 2px;
+}
